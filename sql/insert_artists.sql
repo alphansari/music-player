@@ -1,0 +1,200 @@
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 1', 'Pop', '2022-08-25', 41, 20, 4353, 'Bio of artist 1.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 2', 'Pop', '2022-08-25', 60, 3, 3752, 'Bio of artist 2.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 3', 'Pop', '2022-08-25', 47, 3, 1975, 'Bio of artist 3.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 4', 'Pop', '2022-08-25', 82, 5, 8978, 'Bio of artist 4.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 5', 'Pop', '2022-08-25', 88, 13, 3916, 'Bio of artist 5.', 1, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 6', 'Pop', '2022-08-25', 84, 4, 8443, 'Bio of artist 6.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 7', 'Pop', '2022-08-25', 35, 19, 6336, 'Bio of artist 7.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 8', 'Pop', '2022-08-25', 27, 7, 1079, 'Bio of artist 8.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 9', 'Pop', '2022-08-25', 35, 1, 6514, 'Bio of artist 9.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 10', 'Pop', '2022-08-25', 72, 6, 3467, 'Bio of artist 10.', 3, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 11', 'Pop', '2022-08-25', 68, 12, 2383, 'Bio of artist 11.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 12', 'Pop', '2022-08-25', 95, 13, 2331, 'Bio of artist 12.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 13', 'Pop', '2022-08-25', 11, 4, 5712, 'Bio of artist 13.', 3, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 14', 'Pop', '2022-08-25', 71, 1, 4075, 'Bio of artist 14.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 15', 'Pop', '2022-08-25', 87, 7, 8960, 'Bio of artist 15.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 16', 'Pop', '2022-08-25', 74, 5, 524, 'Bio of artist 16.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 17', 'Pop', '2022-08-25', 59, 4, 2701, 'Bio of artist 17.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 18', 'Pop', '2022-08-25', 55, 15, 9415, 'Bio of artist 18.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 19', 'Pop', '2022-08-25', 51, 7, 336, 'Bio of artist 19.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 20', 'Pop', '2022-08-25', 38, 18, 369, 'Bio of artist 20.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 21', 'Pop', '2022-08-25', 41, 15, 7798, 'Bio of artist 21.', 1, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 22', 'Pop', '2022-08-25', 72, 8, 6636, 'Bio of artist 22.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 23', 'Pop', '2022-08-25', 72, 10, 9215, 'Bio of artist 23.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 24', 'Pop', '2022-08-25', 47, 6, 1469, 'Bio of artist 24.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 25', 'Pop', '2022-08-25', 49, 20, 6672, 'Bio of artist 25.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 26', 'Pop', '2022-08-25', 45, 4, 7471, 'Bio of artist 26.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 27', 'Pop', '2022-08-25', 7, 4, 1848, 'Bio of artist 27.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 28', 'Pop', '2022-08-25', 62, 8, 2120, 'Bio of artist 28.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 29', 'Pop', '2022-08-25', 65, 10, 9870, 'Bio of artist 29.', 1, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 30', 'Pop', '2022-08-25', 84, 5, 7237, 'Bio of artist 30.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 31', 'Pop', '2022-08-25', 93, 8, 7759, 'Bio of artist 31.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 32', 'Pop', '2022-08-25', 45, 18, 4955, 'Bio of artist 32.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 33', 'Pop', '2022-08-25', 25, 12, 5335, 'Bio of artist 33.', 2, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 34', 'Pop', '2022-08-25', 47, 17, 3662, 'Bio of artist 34.', 2, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 35', 'Pop', '2022-08-25', 59, 11, 644, 'Bio of artist 35.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 36', 'Pop', '2022-08-25', 50, 2, 3783, 'Bio of artist 36.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 37', 'Pop', '2022-08-25', 51, 2, 4201, 'Bio of artist 37.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 38', 'Pop', '2022-08-25', 37, 2, 5176, 'Bio of artist 38.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 39', 'Pop', '2022-08-25', 48, 9, 3382, 'Bio of artist 39.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 40', 'Pop', '2022-08-25', 11, 16, 2633, 'Bio of artist 40.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 41', 'Pop', '2022-08-25', 24, 18, 8282, 'Bio of artist 41.', 2, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 42', 'Pop', '2022-08-25', 63, 1, 6863, 'Bio of artist 42.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 43', 'Pop', '2022-08-25', 89, 20, 7862, 'Bio of artist 43.', 1, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 44', 'Pop', '2022-08-25', 32, 7, 5895, 'Bio of artist 44.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 45', 'Pop', '2022-08-25', 62, 17, 5576, 'Bio of artist 45.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 46', 'Pop', '2022-08-25', 42, 12, 9386, 'Bio of artist 46.', 3, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 47', 'Pop', '2022-08-25', 77, 5, 6317, 'Bio of artist 47.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 48', 'Pop', '2022-08-25', 77, 13, 4010, 'Bio of artist 48.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 49', 'Pop', '2022-08-25', 47, 7, 8744, 'Bio of artist 49.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 50', 'Pop', '2022-08-25', 44, 5, 1928, 'Bio of artist 50.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 51', 'Pop', '2022-08-25', 23, 2, 9403, 'Bio of artist 51.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 52', 'Pop', '2022-08-25', 24, 11, 6983, 'Bio of artist 52.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 53', 'Pop', '2022-08-25', 87, 13, 1106, 'Bio of artist 53.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 54', 'Pop', '2022-08-25', 38, 3, 7102, 'Bio of artist 54.', 1, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 55', 'Pop', '2022-08-25', 3, 9, 4271, 'Bio of artist 55.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 56', 'Pop', '2022-08-25', 53, 12, 5707, 'Bio of artist 56.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 57', 'Pop', '2022-08-25', 62, 14, 9261, 'Bio of artist 57.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 58', 'Pop', '2022-08-25', 84, 18, 5630, 'Bio of artist 58.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 59', 'Pop', '2022-08-25', 9, 1, 8648, 'Bio of artist 59.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 60', 'Pop', '2022-08-25', 19, 2, 7755, 'Bio of artist 60.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 61', 'Pop', '2022-08-25', 4, 6, 3167, 'Bio of artist 61.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 62', 'Pop', '2022-08-25', 60, 3, 8130, 'Bio of artist 62.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 63', 'Pop', '2022-08-25', 32, 1, 1368, 'Bio of artist 63.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 64', 'Pop', '2022-08-25', 63, 1, 8379, 'Bio of artist 64.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 65', 'Pop', '2022-08-25', 61, 14, 1960, 'Bio of artist 65.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 66', 'Pop', '2022-08-25', 18, 17, 4406, 'Bio of artist 66.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 67', 'Pop', '2022-08-25', 17, 1, 941, 'Bio of artist 67.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 68', 'Pop', '2022-08-25', 37, 18, 4708, 'Bio of artist 68.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 69', 'Pop', '2022-08-25', 31, 5, 7079, 'Bio of artist 69.', 2, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 70', 'Pop', '2022-08-25', 96, 19, 9310, 'Bio of artist 70.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 71', 'Pop', '2022-08-25', 59, 18, 9713, 'Bio of artist 71.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 72', 'Pop', '2022-08-25', 86, 20, 4462, 'Bio of artist 72.', 3, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 73', 'Pop', '2022-08-25', 95, 4, 4969, 'Bio of artist 73.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 74', 'Pop', '2022-08-25', 62, 11, 5543, 'Bio of artist 74.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 75', 'Pop', '2022-08-25', 33, 12, 7401, 'Bio of artist 75.', 10, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 76', 'Pop', '2022-08-25', 72, 8, 3284, 'Bio of artist 76.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 77', 'Pop', '2022-08-25', 83, 19, 2958, 'Bio of artist 77.', 8, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 78', 'Pop', '2022-08-25', 96, 18, 4708, 'Bio of artist 78.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 79', 'Pop', '2022-08-25', 42, 10, 7729, 'Bio of artist 79.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 80', 'Pop', '2022-08-25', 52, 4, 9607, 'Bio of artist 80.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 81', 'Pop', '2022-08-25', 46, 12, 5454, 'Bio of artist 81.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 82', 'Pop', '2022-08-25', 6, 9, 5015, 'Bio of artist 82.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 83', 'Pop', '2022-08-25', 68, 3, 9201, 'Bio of artist 83.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 84', 'Pop', '2022-08-25', 83, 3, 2517, 'Bio of artist 84.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 85', 'Pop', '2022-08-25', 7, 11, 5101, 'Bio of artist 85.', 3, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 86', 'Pop', '2022-08-25', 11, 7, 6775, 'Bio of artist 86.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 87', 'Pop', '2022-08-25', 69, 4, 3751, 'Bio of artist 87.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 88', 'Pop', '2022-08-25', 57, 13, 9463, 'Bio of artist 88.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 89', 'Pop', '2022-08-25', 78, 2, 3911, 'Bio of artist 89.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 90', 'Pop', '2022-08-25', 47, 11, 684, 'Bio of artist 90.', 6, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 91', 'Pop', '2022-08-25', 16, 3, 9996, 'Bio of artist 91.', 9, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 92', 'Pop', '2022-08-25', 53, 17, 8559, 'Bio of artist 92.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 93', 'Pop', '2022-08-25', 5, 14, 3732, 'Bio of artist 93.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 94', 'Pop', '2022-08-25', 26, 14, 9751, 'Bio of artist 94.', 7, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 95', 'Pop', '2022-08-25', 67, 17, 7180, 'Bio of artist 95.', 2, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 96', 'Pop', '2022-08-25', 2, 5, 5590, 'Bio of artist 96.', 2, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 97', 'Pop', '2022-08-25', 74, 17, 882, 'Bio of artist 97.', 3, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 98', 'Pop', '2022-08-25', 92, 6, 171, 'Bio of artist 98.', 4, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 99', 'Pop', '2022-08-25', 83, 16, 1781, 'Bio of artist 99.', 5, 'artist.jpg');
+INSERT INTO ARTISTS (name, genre, date_joined, total_num_music, total_albums, listeners, bio, country_id, image) VALUES 
+        ('Artist 100', 'Pop', '2022-08-25', 34, 14, 6748, 'Bio of artist 100.', 4, 'artist.jpg');

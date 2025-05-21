@@ -1,0 +1,10 @@
+Türkiye,TR
+Germany,DE
+United States,US
+France,FR
+Italy,IT
+Canada,CA
+Spain,ES
+Japan,JP
+Brazil,BR
+China,CN

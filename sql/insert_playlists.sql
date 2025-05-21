@@ -1,0 +1,300 @@
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (97, 'Playlist 1', 'This is playlist 1.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (73, 'Playlist 2', 'This is playlist 2.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (10, 'Playlist 3', 'This is playlist 3.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (44, 'Playlist 4', 'This is playlist 4.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (58, 'Playlist 5', 'This is playlist 5.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (78, 'Playlist 6', 'This is playlist 6.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (15, 'Playlist 7', 'This is playlist 7.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (30, 'Playlist 8', 'This is playlist 8.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (56, 'Playlist 9', 'This is playlist 9.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (19, 'Playlist 10', 'This is playlist 10.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (52, 'Playlist 11', 'This is playlist 11.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (98, 'Playlist 12', 'This is playlist 12.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (30, 'Playlist 13', 'This is playlist 13.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (6, 'Playlist 14', 'This is playlist 14.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (11, 'Playlist 15', 'This is playlist 15.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (65, 'Playlist 16', 'This is playlist 16.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (74, 'Playlist 17', 'This is playlist 17.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (79, 'Playlist 18', 'This is playlist 18.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (45, 'Playlist 19', 'This is playlist 19.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (9, 'Playlist 20', 'This is playlist 20.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (30, 'Playlist 21', 'This is playlist 21.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (71, 'Playlist 22', 'This is playlist 22.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (19, 'Playlist 23', 'This is playlist 23.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (39, 'Playlist 24', 'This is playlist 24.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (25, 'Playlist 25', 'This is playlist 25.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (66, 'Playlist 26', 'This is playlist 26.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (91, 'Playlist 27', 'This is playlist 27.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (38, 'Playlist 28', 'This is playlist 28.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (78, 'Playlist 29', 'This is playlist 29.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (39, 'Playlist 30', 'This is playlist 30.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (85, 'Playlist 31', 'This is playlist 31.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (28, 'Playlist 32', 'This is playlist 32.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (30, 'Playlist 33', 'This is playlist 33.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (26, 'Playlist 34', 'This is playlist 34.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (15, 'Playlist 35', 'This is playlist 35.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (71, 'Playlist 36', 'This is playlist 36.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (20, 'Playlist 37', 'This is playlist 37.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (47, 'Playlist 38', 'This is playlist 38.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (73, 'Playlist 39', 'This is playlist 39.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (39, 'Playlist 40', 'This is playlist 40.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (84, 'Playlist 41', 'This is playlist 41.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (50, 'Playlist 42', 'This is playlist 42.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (92, 'Playlist 43', 'This is playlist 43.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (44, 'Playlist 44', 'This is playlist 44.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (94, 'Playlist 45', 'This is playlist 45.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (71, 'Playlist 46', 'This is playlist 46.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (97, 'Playlist 47', 'This is playlist 47.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (99, 'Playlist 48', 'This is playlist 48.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (17, 'Playlist 49', 'This is playlist 49.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (21, 'Playlist 50', 'This is playlist 50.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (37, 'Playlist 51', 'This is playlist 51.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (84, 'Playlist 52', 'This is playlist 52.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (59, 'Playlist 53', 'This is playlist 53.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (22, 'Playlist 54', 'This is playlist 54.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (35, 'Playlist 55', 'This is playlist 55.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (15, 'Playlist 56', 'This is playlist 56.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (35, 'Playlist 57', 'This is playlist 57.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (77, 'Playlist 58', 'This is playlist 58.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (67, 'Playlist 59', 'This is playlist 59.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (73, 'Playlist 60', 'This is playlist 60.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (2, 'Playlist 61', 'This is playlist 61.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (66, 'Playlist 62', 'This is playlist 62.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (97, 'Playlist 63', 'This is playlist 63.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (51, 'Playlist 64', 'This is playlist 64.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (46, 'Playlist 65', 'This is playlist 65.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (8, 'Playlist 66', 'This is playlist 66.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (96, 'Playlist 67', 'This is playlist 67.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (90, 'Playlist 68', 'This is playlist 68.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (86, 'Playlist 69', 'This is playlist 69.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (11, 'Playlist 70', 'This is playlist 70.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (44, 'Playlist 71', 'This is playlist 71.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (21, 'Playlist 72', 'This is playlist 72.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (7, 'Playlist 73', 'This is playlist 73.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (52, 'Playlist 74', 'This is playlist 74.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (19, 'Playlist 75', 'This is playlist 75.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (57, 'Playlist 76', 'This is playlist 76.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (24, 'Playlist 77', 'This is playlist 77.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (92, 'Playlist 78', 'This is playlist 78.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (74, 'Playlist 79', 'This is playlist 79.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (25, 'Playlist 80', 'This is playlist 80.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (20, 'Playlist 81', 'This is playlist 81.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (87, 'Playlist 82', 'This is playlist 82.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (44, 'Playlist 83', 'This is playlist 83.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (79, 'Playlist 84', 'This is playlist 84.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (82, 'Playlist 85', 'This is playlist 85.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (36, 'Playlist 86', 'This is playlist 86.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (86, 'Playlist 87', 'This is playlist 87.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (10, 'Playlist 88', 'This is playlist 88.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (22, 'Playlist 89', 'This is playlist 89.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (13, 'Playlist 90', 'This is playlist 90.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (73, 'Playlist 91', 'This is playlist 91.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (35, 'Playlist 92', 'This is playlist 92.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (59, 'Playlist 93', 'This is playlist 93.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (47, 'Playlist 94', 'This is playlist 94.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (3, 'Playlist 95', 'This is playlist 95.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (1, 'Playlist 96', 'This is playlist 96.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (85, 'Playlist 97', 'This is playlist 97.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (10, 'Playlist 98', 'This is playlist 98.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (11, 'Playlist 99', 'This is playlist 99.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (50, 'Playlist 100', 'This is playlist 100.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (96, 'Playlist 101', 'This is playlist 101.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (92, 'Playlist 102', 'This is playlist 102.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (21, 'Playlist 103', 'This is playlist 103.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (90, 'Playlist 104', 'This is playlist 104.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (35, 'Playlist 105', 'This is playlist 105.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (47, 'Playlist 106', 'This is playlist 106.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (48, 'Playlist 107', 'This is playlist 107.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (15, 'Playlist 108', 'This is playlist 108.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (34, 'Playlist 109', 'This is playlist 109.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (43, 'Playlist 110', 'This is playlist 110.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (71, 'Playlist 111', 'This is playlist 111.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (78, 'Playlist 112', 'This is playlist 112.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (12, 'Playlist 113', 'This is playlist 113.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (57, 'Playlist 114', 'This is playlist 114.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (57, 'Playlist 115', 'This is playlist 115.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (45, 'Playlist 116', 'This is playlist 116.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (87, 'Playlist 117', 'This is playlist 117.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (46, 'Playlist 118', 'This is playlist 118.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (78, 'Playlist 119', 'This is playlist 119.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (93, 'Playlist 120', 'This is playlist 120.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (86, 'Playlist 121', 'This is playlist 121.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (8, 'Playlist 122', 'This is playlist 122.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (27, 'Playlist 123', 'This is playlist 123.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (64, 'Playlist 124', 'This is playlist 124.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (81, 'Playlist 125', 'This is playlist 125.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (41, 'Playlist 126', 'This is playlist 126.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (65, 'Playlist 127', 'This is playlist 127.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (28, 'Playlist 128', 'This is playlist 128.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (65, 'Playlist 129', 'This is playlist 129.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (41, 'Playlist 130', 'This is playlist 130.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (83, 'Playlist 131', 'This is playlist 131.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (36, 'Playlist 132', 'This is playlist 132.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (4, 'Playlist 133', 'This is playlist 133.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (63, 'Playlist 134', 'This is playlist 134.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (47, 'Playlist 135', 'This is playlist 135.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (26, 'Playlist 136', 'This is playlist 136.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (41, 'Playlist 137', 'This is playlist 137.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (57, 'Playlist 138', 'This is playlist 138.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (3, 'Playlist 139', 'This is playlist 139.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (4, 'Playlist 140', 'This is playlist 140.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (53, 'Playlist 141', 'This is playlist 141.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (67, 'Playlist 142', 'This is playlist 142.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (36, 'Playlist 143', 'This is playlist 143.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (73, 'Playlist 144', 'This is playlist 144.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (47, 'Playlist 145', 'This is playlist 145.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (56, 'Playlist 146', 'This is playlist 146.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (46, 'Playlist 147', 'This is playlist 147.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (74, 'Playlist 148', 'This is playlist 148.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (65, 'Playlist 149', 'This is playlist 149.', '2022-08-25', 'playlist.jpg');
+INSERT INTO PLAYLISTS (user_id, title, description, date_created, image) VALUES 
+        (19, 'Playlist 150', 'This is playlist 150.', '2022-08-25', 'playlist.jpg');

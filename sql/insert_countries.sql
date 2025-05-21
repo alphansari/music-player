@@ -1,0 +1,10 @@
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (1, 'Türkiye', 'TR');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (2, 'Germany', 'DE');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (3, 'USA', 'US');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (4, 'Canada', 'CA');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (5, 'France', 'FR');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (6, 'Italy', 'IT');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (7, 'Japan', 'JA');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (8, 'India', 'IN');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (9, 'Brazil', 'BR');
+INSERT INTO COUNTRY (country_id, country_name, country_code) VALUES (10, 'UK', 'UK');
